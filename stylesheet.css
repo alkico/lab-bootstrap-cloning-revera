@@ -1,0 +1,34 @@
+/*I can't get the CSS file to link in with the webpage - 
+even though I've tried several diff ways of entering the file path in the HTML file*/
+
+* {
+  margin: 0px;
+  border: 0px;
+}
+
+.navbar-brand {
+  font-size: 32px;
+}
+
+.home {
+  color: #f96b61;
+}
+
+h2 {
+  font-size: 24px;
+  color: black;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+h3 {
+  font-size: 13px;
+  padding-bottom: 20px;
+  color: rgb(170, 170, 170);
+}
+
+.fwidgets {
+  padding: 40px 0px;
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
